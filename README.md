@@ -2,8 +2,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellesiba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My GitHub Stats" height="135" alt="stats graph"  />
+<div align="left">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellesiba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
@@ -37,11 +37,8 @@
 
 ###
 
-<h6 align="left">🐍Go Snake! Eat my commits! GO!!🐍</h6>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ellesiba/ellesiba/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -64,15 +61,8 @@
 
 ###
 
-<p align="left">What I am listening to:</p>
 
 ###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/127383444">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=2" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
