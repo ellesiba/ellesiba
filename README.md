@@ -1,7 +1,6 @@
-<h2 align="center">✨Hello!! I'm Rochelle Sibaja! Nice to meet ya! 🫶🏽✨</h2>
-
-###
-
+<img src="https://user-images.githubusercontent.com/119995266/232545185-f5071f8b-3b65-454e-b82a-e23b582cfaa4.gif">
+<!-- <h2 align="center">✨Hello!! I'm Rochelle Sibaja! Nice to meet ya! 🫶🏽✨</h2>
+ -->
 <div align="center">
   
 <!--   ![Elle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellesiba&show_icons=true&theme=kacho_ga) -->
