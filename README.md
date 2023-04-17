@@ -38,13 +38,13 @@
 </div>
 
 ###
-<!-- 
+
 <h6 align="left">🐍Go Snake! Eat my commits! GO!!🐍</h6>
 
 ###
 
 
-<img src="https://raw.githubusercontent.com/ellesiba/ellesiba/blob/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/ellesiba/ellesiba/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
