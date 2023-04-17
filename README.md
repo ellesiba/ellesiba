@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/119995266/232545185-f5071f8b-3b65-454e-b82a-e23b582cfaa4.gif">
+<img src="https://user-images.githubusercontent.com/119995266/232552808-0614b101-47ff-4bb0-9acb-accb79ad2e8d.gif">
+
 <!-- <h2 align="center">✨Hello!! I'm Rochelle Sibaja! Nice to meet ya! 🫶🏽✨</h2>
  -->
 <div align="center">
