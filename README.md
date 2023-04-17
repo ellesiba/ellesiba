@@ -2,9 +2,11 @@
 
 ###
 
-<div align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellesiba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
+<div align="center">
+  
+<!--   ![Elle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellesiba&show_icons=true&theme=kacho_ga) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ellesiba&show_icons=true&theme=kacho_ga" height="135">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellesiba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=kacho_ga&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
 ###
@@ -36,9 +38,13 @@
 </div>
 
 ###
-
+<!-- 
+<h6 align="left">🐍Go Snake! Eat my commits! GO!!🐍</h6>
 
 ###
+
+
+<img src="https://raw.githubusercontent.com/ellesiba/ellesiba/blob/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
@@ -61,9 +67,16 @@
 
 ###
 
+<!-- <p align="left">What I am listening to:</p>
 
 ###
 
+<div align="left">
+  <a href="https://open.spotify.com/user/127383444">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=2" alt="Spotify recently played"  />
+  </a>
+</div>
+ -->
 ###
 
 <h3 align="center">Connect with me!</h3>
