@@ -101,3 +101,5 @@ Coding is similar to crafting a story. You begin with research, then you write a
 </div>
 
 ###
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=e59372&section=footer)
