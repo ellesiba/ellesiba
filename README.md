@@ -67,6 +67,8 @@
 
 ###
 
+Coding is similar to crafting a story. You begin with research, then you write and edit (often endlessly), until you finally create something new from nothing but the ideas that swirl in your mind. I have always enjoyed crafting stories, and it's my favorite part of coding. I love helping to convey a new vision and presenting it to the world.
+
 <!-- <p align="left">What I am listening to:</p>
 
 ###
