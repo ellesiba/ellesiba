@@ -5,8 +5,8 @@
 <div align="center">
   
 <!--   ![Elle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellesiba&show_icons=true&theme=kacho_ga) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ellesiba&show_icons=true&theme=kacho_ga" height="135">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellesiba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=kacho_ga&hide_border=false" height="135" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ellesiba&show_icons=true&theme=panda" height="135">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellesiba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
 ###
