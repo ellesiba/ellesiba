@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/119995266/232552808-0614b101-47ff-4bb0-9acb-accb79ad2e8d.gif">
+<img src="https://user-images.githubusercontent.com/119995266/232860023-0926080b-196f-4fa8-b528-1c71b3e366be.gif">
 
 <!-- <h2 align="center">✨Hello!! I'm Rochelle Sibaja! Nice to meet ya! 🫶🏽✨</h2>
  -->
@@ -102,4 +102,4 @@ Coding is similar to crafting a story. You begin with research, then you write a
 
 ###
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=fcc4c7&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=662a0e&section=footer)
