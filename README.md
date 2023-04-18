@@ -102,4 +102,4 @@ Coding is similar to crafting a story. You begin with research, then you write a
 
 ###
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=662a0e&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=d88b68&section=footer)
