@@ -1,10 +1,7 @@
 <img src="https://user-images.githubusercontent.com/119995266/232860023-0926080b-196f-4fa8-b528-1c71b3e366be.gif">
 
-<!-- <h2 align="center">✨Hello!! I'm Rochelle Sibaja! Nice to meet ya! 🫶🏽✨</h2>
- -->
 <div align="center">
   
-<!--   ![Elle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellesiba&show_icons=true&theme=kacho_ga) -->
   <img src="https://github-readme-stats.vercel.app/api?username=ellesiba&show_icons=true&theme=panda" height="135">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellesiba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false" height="135" alt="languages graph"  />
 </div>
@@ -38,13 +35,13 @@
 </div>
 
 ###
-
+<!-- 
 <h6 align="left">🐍Go Snake! Eat my commits! GO!!🐍</h6>
 
 ###
 
 <img src="https://raw.githubusercontent.com/ellesiba/ellesiba/blob/output/snake.svg" alt="Snake animation" />
-
+ -->
 
 ###
 
